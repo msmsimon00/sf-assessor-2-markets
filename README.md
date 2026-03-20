@@ -2,7 +2,7 @@
 ## Insights from San Francisco’s Property Tax Roll Data — Through the Lens of AI
 
 <p align="center">
-  <img src="assets/cover.jpg" alt="Cover Image" width="100%">
+  <img src="./assets/cover.jpg" alt="Cover Image" width="100%">
 </p>
 
 There’s something uniquely compelling about looking at a city from above. You begin to see patterns and relationships that aren’t obvious at street level. In this analysis, that vantage point isn’t physical—**it’s data**.  
@@ -26,7 +26,7 @@ Let’s get into it.
 ## A portfolio-style structural study of value, neighborhood geography, and the Two Housing Circuits of San Francisco housing
 
 <p align="center">
-  <img src="assets/01_citywide_property_type_map.png" alt="Citywide property-type map for San Francisco" width="78%">
+  <img src="./assets/01_citywide_property_type_map.png" alt="Citywide property-type map for San Francisco" width="78%">
 </p>
 
 <p align="center"><em>Administrative tax-roll data can be more than a bookkeeping system. In this report it becomes a structural map of San Francisco: where value sits, where different land uses cluster, which parts of the city are older or newer, and which parts of the housing stock actually circulate through the market.</em></p>
@@ -107,7 +107,7 @@ The report therefore separates **headline housing stock** from **circulating hou
 ## Visual guide to the city
 
 <p align="center">
-  <img src="assets/01b_sf_district_reference_map.webp" alt="San Francisco district reference map" width="58%">
+  <img src="./assets/01b_sf_district_reference_map.webp" alt="San Francisco district reference map" width="58%">
 </p>
 
 <p align="center"><em>District reference map used to interpret assessor-neighborhood labels in the tables below.</em></p>
@@ -131,7 +131,7 @@ The first question is simple but important: **what kinds of properties make up S
 ### Figure 1. Citywide property-type map
 
 <p align="center">
-  <img src="assets/01_citywide_property_type_map.png" alt="Citywide property-type map for 2024" width="78%">
+  <img src="./assets/01_citywide_property_type_map.png" alt="Citywide property-type map for 2024" width="78%">
 </p>
 
 <p align="center"><em>Static citywide point map showing the spatial concentration of major property types across San Francisco.</em></p>
@@ -257,7 +257,7 @@ This section shifts from a single-year map to long-run structure.
 ### Figure 2. Property counts over time by category
 
 <p align="center">
-  <img src="assets/02_property_counts_over_time.png" alt="Property counts over time by category" width="82%">
+  <img src="./assets/02_property_counts_over_time.png" alt="Property counts over time by category" width="82%">
 </p>
 
 <p align="center"><em>Absolute counts of broad property categories across roll years.</em></p>
@@ -265,7 +265,7 @@ This section shifts from a single-year map to long-run structure.
 ### Figure 3. Average property-type shares over time
 
 <p align="center">
-  <img src="assets/03_average_property_type_shares.png" alt="Average property-type shares over time" width="60%">
+  <img src="./assets/03_average_property_type_shares.png" alt="Average property-type shares over time" width="60%">
 </p>
 
 <p align="center"><em>Long-run mean composition of the property roll by category.</em></p>
@@ -564,7 +564,7 @@ This section therefore separates two questions:
 ### Figure 4. Median and total assessed value by property type
 
 <p align="center">
-  <img src="assets/04_median_and_total_assessed_value_by_type.png" alt="Median and total assessed value by property type" width="86%">
+  <img src="./assets/04_median_and_total_assessed_value_by_type.png" alt="Median and total assessed value by property type" width="86%">
 </p>
 
 <p align="center"><em>Median parcel value and aggregate citywide assessed value across major property types.</em></p>
@@ -1106,7 +1106,7 @@ This narrower focus is analytically useful because these are the property types 
 ### Figure 5. 2024 assessed value maps: single-family vs condominiums
 
 <p align="center">
-  <img src="assets/05_total_assessed_value_maps_single_family_vs_condo.png" alt="2024 assessed value maps for single-family homes and condominiums" width="88%">
+  <img src="./assets/05_total_assessed_value_maps_single_family_vs_condo.png" alt="2024 assessed value maps for single-family homes and condominiums" width="88%">
 </p>
 
 <p align="center"><em>Neighborhood-level geography of total assessed value for the two headline housing segments.</em></p>
@@ -1454,7 +1454,7 @@ This is not the same as observed market sale price per square foot, but it is hi
 ### Figure 6. Assessed value per square foot maps
 
 <p align="center">
-  <img src="assets/06_assessed_value_per_sqft_maps.png" alt="Assessed value per square foot maps" width="88%">
+  <img src="./assets/06_assessed_value_per_sqft_maps.png" alt="Assessed value per square foot maps" width="88%">
 </p>
 
 <p align="center"><em>Spatial pattern of value intensity after normalizing for interior area.</em></p>
@@ -1796,7 +1796,7 @@ Building age adds a structural time dimension. It can proxy for:
 ### Figure 7. Building-age maps
 
 <p align="center">
-  <img src="assets/07_building_age_maps.png" alt="Building age maps" width="88%">
+  <img src="./assets/07_building_age_maps.png" alt="Building age maps" width="88%">
 </p>
 
 <p align="center"><em>Neighborhood geography of median building age for single-family homes and condos.</em></p>
@@ -2136,7 +2136,7 @@ This section isolates homes sold in the **last five years** and examines their 2
 ### Figure 8. Recently sold homes in the last five years
 
 <p align="center">
-  <img src="assets/08_recent_sales_maps_last_5_years.png" alt="Recently sold homes in the last five years" width="88%">
+  <img src="./assets/08_recent_sales_maps_last_5_years.png" alt="Recently sold homes in the last five years" width="88%">
 </p>
 
 <p align="center"><em>Maps focused on the recent-sales subset, where assessor values are closer to current conditions.</em></p>
@@ -2458,7 +2458,7 @@ This is where the distinction between **legacy stock** and **circulating stock**
 ### Figure 9. Years since last sale maps
 
 <p align="center">
-  <img src="assets/09_years_since_last_sale_maps.png" alt="Years since last sale maps" width="88%">
+  <img src="./assets/09_years_since_last_sale_maps.png" alt="Years since last sale maps" width="88%">
 </p>
 
 <p align="center"><em>Spatial turnover map showing how long each part of the city has held its housing stock.</em></p>
@@ -2466,7 +2466,7 @@ This is where the distinction between **legacy stock** and **circulating stock**
 ### Figure 10. 2024 holding-period histograms
 
 <p align="center">
-  <img src="assets/10_holding_period_histograms_2024.png" alt="2024 holding-period histograms" width="86%">
+  <img src="./assets/10_holding_period_histograms_2024.png" alt="2024 holding-period histograms" width="86%">
 </p>
 
 <p align="center"><em>Side-by-side distribution of years since last sale for single-family homes and condos in 2024.</em></p>
@@ -2474,7 +2474,7 @@ This is where the distinction between **legacy stock** and **circulating stock**
 ### Figure 11. 2019 holding-period histograms
 
 <p align="center">
-  <img src="assets/11_holding_period_histograms_2019.png" alt="2019 holding-period histograms" width="86%">
+  <img src="./assets/11_holding_period_histograms_2019.png" alt="2019 holding-period histograms" width="86%">
 </p>
 
 <p align="center"><em>Pre-pandemic comparison showing that the 2021 spike seen in 2024 is not the long-run norm.</em></p>
@@ -2482,7 +2482,7 @@ This is where the distinction between **legacy stock** and **circulating stock**
 ### Figure 12. Decay-function fit comparison
 
 <p align="center">
-  <img src="assets/12_decay_function_fit.png" alt="Decay-function fit comparison" width="86%">
+  <img src="./assets/12_decay_function_fit.png" alt="Decay-function fit comparison" width="86%">
 </p>
 
 <p align="center"><em>Exponential decay fit illustrating a strong circulation pattern for condos and a weak fit for single-family homes.</em></p>
@@ -4704,7 +4704,7 @@ Below are the remaining report tables, included for completeness and GitHub port
 ## Files in this portfolio package
 
 - `SF_Assessor_Roll_Portfolio_README.md` — the GitHub-ready report
-- `assets/` — extracted figures used by the report
+- `./assets/` — extracted figures used by the report
 - `SF_Assessor_Roll_figures.zip` — zipped figure assets for easy download and reuse
 
 ---
@@ -4714,7 +4714,7 @@ Below are the remaining report tables, included for completeness and GitHub port
 ```text
 repo-root/
 ├── README.md
-└── assets/
+└── ./assets/
     ├── 01_citywide_property_type_map.png
     ├── 01b_sf_district_reference_map.webp
     ├── 02_property_counts_over_time.png
@@ -4730,5 +4730,5 @@ repo-root/
     └── 12_decay_function_fit.png
 ```
 
-If this file is intended to become the repository's main landing page, rename it to `README.md` and place the `assets/` folder next to it.
+If this file is intended to become the repository's main landing page, rename it to `README.md` and place the `./assets/` folder next to it.
 "# sf-assessor-2-markets" 

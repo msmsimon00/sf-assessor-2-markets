@@ -1,0 +1,135 @@
+use_code,property_class_code,property_class_code_definition
+COMH,H,Hotel
+COMH,H1,Hotel
+COMH,H2,Hotels - Other
+COMH,HC,Hotel Commercial (H2w/Com)
+COMH,HG,Hotel Gov
+COMH,M,Motels
+COMH,MG,Motels Gov
+COMH,RH,Residential Hotel & SRO
+COMH,RH1,Retail & Hotel
+COMH,RHG,Residential Hotel & SRO Gov
+COMM,AC,Apartment  & Commercial Store
+COMM,ACG,Apartment Gov Comm Store
+COMM,E,Schools
+COMM,G,Garages (Commercial)
+COMM,GC,Golf Course
+COMM,GG,Garages (Commercial)
+COMM,GZ,Garage Condominium
+COMM,MIX,Mixed use
+COMM,N1,Hospitals
+COMM,N1G,Hospitals Gov
+COMM,N2,Convalescent/Nursing Homes
+COMM,N2G,Convalescent/Nursing Homes Gov
+COMM,PL,Parking Lot
+COMM,PLG,GARAGE
+COMM,POLG,POLICE STATION
+COMM,PZ,Parking Stall Condominium
+COMM,S,Gas Station
+COMM,T,Theatres
+COMM,TS,Timeshare
+COMM,TSF,Time Share Fractional
+COMM,TSU,Time Share Unsegregated
+COMM,U,"Clubs,Lodges,Fraternal Organizations"
+COMM,UG,"Clubs,Lodges,Fraternal Organizations Gov"
+COMM,W,"Churches,Convents,Rectories"
+COMO,LIBG,LIBRARY
+COMO,O,Office
+COMO,O35,Office Portion Leased of 35 or More
+COMO,OAH,Office - High Class A
+COMO,OAL,Office - Low Class A
+COMO,OAT,"Office - ""Trophy"" Class A"
+COMO,OBH,Office - High Class B
+COMO,OBM,Office - Middle Class B
+COMO,OCH,Office - High Class C
+COMO,OCL,Office - Low Class C
+COMO,OCM,Office - Middle Class C
+COMO,OG,Office Gov
+COMO,OMD,Medical- dental Office Building
+COMO,OZ,Office - Condominium
+COMO,OZEU,Office Condo Economic Unit
+COMR,B,Bank
+COMR,BZ,Bank Condominium
+COMR,C,Commercial Stores
+COMR,C1,Shopping Center
+COMR,C1G,Shopping Center Gov
+COMR,CD,Commercial Department Stores
+COMR,CG,Commercial Stores Gov
+COMR,CM,Commercial/Mixed use
+COMR,CONG,Consulate
+COMR,CZ,Commercial Store Condo
+COMR,CZEU,Commercial Store Condo Economic Unit
+COMR,EC,Entertainment Complex
+COMR,ECG,Entertainment Complex Gov
+COMR,EG,Schools
+COMR,OC,Office with Major Retail Units
+GOVT,CP,City Property
+GOVT,P,Public Buildings (Govt)
+GOVT,PI,Possessory Interest
+GOVT,RDAP,Redevelopment Agency Property
+GOVT,SP,State of California Property
+GOVT,UCP,University of California Property
+GOVT,USP,U.S. Government Property
+GOVT,VG,Vacant Lot Gov
+GOVT,Y,Port Commission Property
+IND,I,Industrial
+IND,IDC,Industrial Data Center
+IND,IG,Industrial Gov
+IND,IW,Industrial Warehouse
+IND,IX,Industrial Mixed/Other Use
+IND,IXG,Industrial Gov Mixed/Other Use
+IND,IZ,Industrial Condominium
+MISC,FIRG,FIRE STATION
+MISC,MB,Mission Bay
+MISC,TDR,Vacant TDR Parcel
+MISC,UWL,Under Water Lot
+MISC,V,Vacant Lot
+MISC,VA15,Vacant land- residential 15+ units
+MISC,VCI,Vacant Lot Comm and Ind
+MISC,VPUB,Vacant Lot Public Use
+MISC,VR,Vacant Lot Residential
+MISC,VRX,Vacant Lot Residential w/ Restriction
+MISC,VSP,Vacant Street Parcel
+MISC,X,Misc
+MRES,A,Apartment 4 units or less
+MRES,A15,Apartment 15 Units or more
+MRES,A5,Apartment 5 to 14 Units
+MRES,A5G,Apartment Gov 5 to 14 units
+MRES,AG,Apartment Gov 4 units or less
+MRES,CO,Coop Units Unsegregated
+MRES,DA,Dwellings - Apt 4 units or less
+MRES,DA15,Dwellings - Apt 15 units or more
+MRES,DA5,Dwellings - Apt 5 to 14 units
+MRES,DCON,Legal Multi-Family Con to SFR
+MRES,DD,2 Dwellings on 1 Parcel 4 units or less
+MRES,DD15,2 Dwellings on 1 Parcel 15 units +
+MRES,DD5,2 Dwellings on 1 Parcel 5 to 14 units
+MRES,DF,1 Flat & Dwelling-1 Parcel
+MRES,F,Flats & Duplex
+MRES,F15,Flats 15 units +
+MRES,F2,Flat & Store
+MRES,F5,Flats 5 to 14 units
+MRES,FA,1 Flat & 1 Apt Bldg-1 Parcel
+MRES,FA5,1 Flat & 1 Apt - 1 Parcel 5 to 14 units
+MRES,FS,Flat & Store 4 units or less
+MRES,FS15,Flat & Store 15 units +
+MRES,FS5,Flat & Store 5 to 14 units
+MRES,OA,Office and Apartments 4 units or less
+MRES,OA15,Office and Apartments 15 units +
+MRES,OA5,Office and Apartments 5 to 14 units
+MRES,TI15,TIC Bldg 15 units +
+MRES,TIA,TI Apartment
+MRES,TIC,TIC Bldg 4 units or less
+MRES,TIF,TI Flats & Duplex
+MRES,XV,Single Struct on Multi Lot(D & F's only)
+SRES,COS,Coop Units Segregated
+SRES,D,Dwelling
+SRES,DBM,Dwelling BMR
+SRES,LZ,Live/Work Condominium
+SRES,LZBM,Live/Work Condominium BMR
+SRES,PD,PUD (Planned Unit Development)
+SRES,TH,Town House
+SRES,THBM,Town House BMR
+SRES,Z,Condominium
+SRES,ZBM,Condominium BMR
+SRES,ZEU,Condominium Economic Unit

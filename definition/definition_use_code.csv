@@ -1,0 +1,10 @@
+use_code,use_definition
+COMH,Commercial Hotel
+COMM,Commercial Misc
+COMO,Commercial Office
+COMR,Commercial Retail
+GOVT,Government
+IND,Industrial
+MISC,Miscellaneous/Mixed-Use
+MRES,Multi-Family Residential
+SRES,Single Family Residential
