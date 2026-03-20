@@ -26,10 +26,10 @@ Let’s get into it.
 ## A portfolio-style structural study of value, neighborhood geography, and the Two Housing Circuits of San Francisco housing
 
 <p align="center">
-  <img src="./assets/01_citywide_property_type_map.png" alt="Citywide property-type map for San Francisco" width="78%">
+  <img src="./assets/01b_sf_district_reference_map.webp" alt="San Francisco district reference map" width="58%">
 </p>
 
-<p align="center"><em>Administrative tax-roll data can be more than a bookkeeping system. In this report it becomes a structural map of San Francisco: where value sits, where different land uses cluster, which parts of the city are older or newer, and which parts of the housing stock actually circulate through the market.</em></p>
+<p align="center"><em>District reference map used to interpret assessor-neighborhood labels in the tables below.</em></p>
 
 ---
 
@@ -101,16 +101,6 @@ Under Proposition 13, properties that have not changed hands in many years can c
 - the gap between the two is itself economically meaningful.
 
 The report therefore separates **headline housing stock** from **circulating housing stock** whenever possible.
-
----
-
-## Visual guide to the city
-
-<p align="center">
-  <img src="./assets/01b_sf_district_reference_map.webp" alt="San Francisco district reference map" width="58%">
-</p>
-
-<p align="center"><em>District reference map used to interpret assessor-neighborhood labels in the tables below.</em></p>
 
 ---
 
