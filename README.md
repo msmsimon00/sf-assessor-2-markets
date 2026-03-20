@@ -2,7 +2,7 @@
 ## Insights from San Francisco’s Property Tax Roll Data — Through the Lens of AI
 
 <p align="center">
-  <img src="./assets/cover.jpg" alt="Cover Image" width="100%">
+  <img src="./assets/cover.jpeg" alt="Cover Image" width="100%">
 </p>
 
 There’s something uniquely compelling about looking at a city from above. You begin to see patterns and relationships that aren’t obvious at street level. In this analysis, that vantage point isn’t physical—**it’s data**.  
